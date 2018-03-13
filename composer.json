@@ -2,7 +2,7 @@
     "require": {
         "squizlabs/php_codesniffer": "@stable",
         "friendsofphp/php-cs-fixer": "@stable",
-        "symfony/console": "@stable",
-        "symfony/process": "@stable"
+        "symfony/console": "3.3.*",
+        "symfony/process": "3.3.*"
     }
 }
